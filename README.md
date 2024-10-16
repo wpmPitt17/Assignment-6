@@ -1,4 +1,5 @@
 # Assignment-6
+Authors: Wyatt McMullen
 
 Pretty Simple This program asks for your name, confirms it with a println
 Then it asks for your age, it will continually prompt your name until it gets
